@@ -87,12 +87,34 @@ O script `Aula_04.m` explora o uso de números complexos no MATLAB, abrangendo d
 
 ---
 
+## Arquivo: `Aula_05.m`
+
+### Descrição:
+Este script aborda [insira aqui uma breve descrição do que a aula cobre, como novos conceitos ou técnicas].
+
+### Conteúdo:
+- **[Tópico 1]**: [Descreva o primeiro tópico abordado na aula, incluindo exemplos ou funções relevantes].
+- **[Tópico 2]**: [Descreva o segundo tópico abordado na aula, incluindo exemplos ou funções relevantes].
+- **[Tópico 3]**: [Descreva qualquer prática ou exercício realizado, se aplicável].
+
+---
+
+## Arquivo: `Aula_06.m`
+
+### Descrição:
+Este script aprofunda os conceitos de [insira aqui uma breve descrição do que a aula cobre, como novos conceitos ou técnicas].
+
+### Conteúdo:
+- **[Tópico 1]**: [Descreva o primeiro tópico abordado na aula, incluindo exemplos ou funções relevantes].
+- **[Tópico 2]**: [Descreva o segundo tópico abordado na aula, incluindo exemplos ou funções relevantes].
+- **[Tópico 3]**: [Descreva qualquer prática ou exercício realizado, se aplicável].
+
+---
+
 ## Resumo Geral
 
 ### Propósito:
-O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script.
-Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB.
-O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia.
+O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script. Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB. O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia. As aulas 05 e 06 expandem os conhecimentos adquiridos nas aulas anteriores, introduzindo conceitos fundamentais que são essenciais para aplicações mais avançadas no MATLAB.
 
 
 ### Uso:
