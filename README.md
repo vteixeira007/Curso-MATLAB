@@ -17,7 +17,7 @@ Este arquivo é um script MATLAB que serve como uma introdução básica ao ambi
 - **Comandos de ajuda**: Introduz o uso de comandos como `help`, `doc`, e `lookfor` para obter ajuda e documentação sobre funções específicas do MATLAB.
 - **Alteração de diretório**: Utiliza o comando `cd` para mudar o diretório atual.
 
----
+----
 
 ## Arquivo: `Aula_01.mat`
 
@@ -68,11 +68,31 @@ O script `Aula_03.m` foca no trabalho com funções trigonométricas no MATLAB, 
 
 ---
 
+## Arquivo: `Aula_04.m`
+
+### Descrição
+O script `Aula_04.m` explora o uso de números complexos no MATLAB, abrangendo desde sua definição até operações básicas e conversões entre diferentes formas de representação.
+
+### Conteúdo
+- **Definição de Números Complexos**:
+  - Utilização dos símbolos `j` e `i` para representar números complexos.
+  - Definição de números complexos usando a função `complex`.
+- **Extração de Componentes**:
+  - Obtenção da parte real (`real`) e imaginária (`imag`) de um número complexo.
+- **Cálculo de Propriedades**:
+  - Valor absoluto (`abs`) de um número complexo.
+  - Ângulo de fase (`angle`) em radianos.
+- **Representação Cartesiana**:
+  - Métodos para reconstruir números complexos em formato cartesiano utilizando a parte real, imaginária, valor absoluto e ângulo.
+
+---
+
 ## Resumo Geral
 
 ### Propósito:
 O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script.
 Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB.
+O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia.
 
 
 ### Uso:
