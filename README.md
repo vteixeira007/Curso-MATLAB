@@ -30,10 +30,50 @@ Este arquivo é um arquivo binário MATLAB que contém os dados salvos do worksp
 
 ---
 
+## Arquivo: `Aula_02.m`
+
+### Descrição
+O script `Aula_02.m` aprofunda os conceitos básicos do MATLAB, abordando operações aritméticas, definição e manipulação de variáveis, além de diferentes formatos numéricos suportados pelo MATLAB.
+
+### Conteúdo
+- **Operações Aritméticas**: Exemplos de somas, multiplicações, potências e funções trigonométricas.
+- **Definição de Variáveis**:
+  - Declaração de variáveis e seus formatos.
+  - Erros comuns na definição.
+  - Comportamento de variáveis especiais, como `inf`, `NaN` e `eps`.
+- **Formatos Numéricos**:
+  - Diferentes representações, como `short`, `long`, `bank`, `hex` e `rational`.
+- **Comandos de Variáveis**:
+  - `who` e `whos`: Para listar variáveis definidas.
+  - `clear`: Para remover variáveis específicas.
+- **Exibição de Dados**:
+  - Uso do comando `disp` para exibir valores de variáveis no terminal.
+
+---
+
+## Arquivo: `Aula_03.m`
+
+### Descrição
+O script `Aula_03.m` foca no trabalho com funções trigonométricas no MATLAB, incluindo cálculos em radianos e graus e conversões entre esses formatos.
+
+### Conteúdo
+- **Funções Trigonométricas**:
+  - Cálculo de seno, cosseno, tangente, secante, cossecante e cotangente.
+  - Uso de funções em radianos (padrão do MATLAB).
+- **Cálculos Avançados**:
+  - Exemplos de cálculos envolvendo arco seno (`asin`) e expressões trigonométricas mais complexas.
+- **Conversões de Unidade**:
+  - Transformação entre radianos e graus com `rad2deg` e `deg2rad`.
+  - Funções trigonométricas diretamente em graus, como `sind` e `cosd`.
+
+---
+
 ## Resumo Geral
 
 ### Propósito:
 O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script.
+Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB.
+
 
 ### Uso:
 Esses arquivos são úteis para quem está começando a aprender MATLAB e deseja entender como manipular dados e usar comandos básicos.
@@ -43,12 +83,10 @@ Esses arquivos são úteis para quem está começando a aprender MATLAB e deseja
 ### Como Usar:
 1. Clone este repositório.
 2. Abra o MATLAB e navegue até o diretório onde os arquivos estão localizados.
-3. Execute o script `Aula_01.m` para explorar as funcionalidades básicas do MATLAB.
+3. Execute os scripts para explorar os conceitos apresentados.
 
 ---
 
 ### Contribuições:
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorar este projeto.
 
-### Licença:
-Este projeto está licenciado sob a [MIT License](LICENSE).
