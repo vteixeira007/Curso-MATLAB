@@ -90,32 +90,54 @@ O script `Aula_04.m` explora o uso de números complexos no MATLAB, abrangendo d
 ## Arquivo: `Aula_05.m`
 
 ### Descrição:
-Este script aborda [insira aqui uma breve descrição do que a aula cobre, como novos conceitos ou técnicas].
+Este script aborda o tema de **arredondamentos** no MATLAB, apresentando diferentes métodos para manipulação de números reais.
 
 ### Conteúdo:
-- **[Tópico 1]**: [Descreva o primeiro tópico abordado na aula, incluindo exemplos ou funções relevantes].
-- **[Tópico 2]**: [Descreva o segundo tópico abordado na aula, incluindo exemplos ou funções relevantes].
-- **[Tópico 3]**: [Descreva qualquer prática ou exercício realizado, se aplicável].
+- **Declaração de Variáveis**:
+  - Define as variáveis `x`, `y`, `z` e `w` com valores fracionários.
+- **Parte Inteira**:
+  - Utiliza a função `fix` para obter a parte inteira dos números.
+- **Inteiro Mais Próximo**:
+  - Aplica a função `round` para arredondar os números para o inteiro mais próximo.
+- **Arredondamento para Baixo**:
+  - Usa a função `floor` para arredondar para o maior inteiro que seja menor ou igual ao argumento.
+- **Arredondamento para Cima**:
+  - Aplica a função `ceil` para arredondar para o menor inteiro que seja maior ou igual ao argumento.
+- **Resto de uma Divisão**:
+  - Demonstra como determinar o resto de uma divisão utilizando a função `rem`.
 
 ---
 
 ## Arquivo: `Aula_06.m`
 
 ### Descrição:
-Este script aprofunda os conceitos de [insira aqui uma breve descrição do que a aula cobre, como novos conceitos ou técnicas].
+Este script aborda os **comandos do sistema operativo** no MATLAB, permitindo a manipulação de arquivos e diretórios diretamente do ambiente MATLAB.
 
 ### Conteúdo:
-- **[Tópico 1]**: [Descreva o primeiro tópico abordado na aula, incluindo exemplos ou funções relevantes].
-- **[Tópico 2]**: [Descreva o segundo tópico abordado na aula, incluindo exemplos ou funções relevantes].
-- **[Tópico 3]**: [Descreva qualquer prática ou exercício realizado, se aplicável].
+- **Alterar o Diretório de Trabalho**:
+  - Utiliza o comando `cd` para mudar o diretório atual para um especificado.
+- **Criar Pastas**:
+  - Demonstra como criar novas pastas usando `mkdir`.
+- **Copiar Arquivos ou Pastas**:
+  - Apresenta o uso do comando `copyfile` para copiar arquivos ou pastas de um diretório para outro.
+- **Renomear ou Mover Arquivos e Diretórios**:
+  - Utiliza `movefile` para renomear ou mover arquivos e pastas.
+- **Apagar Arquivos**:
+  - Mostra como deletar um arquivo utilizando o comando `delete`.
+- **Listar Arquivos em um Diretório**:
+  - Usa `dir` para exibir todos os arquivos presentes no diretório atual.
+- **Exibir Diretório de Trabalho Atual**:
+  - O comando `pwd` é utilizado para mostrar o caminho do diretório atual.
+- **Verificar Existência de Diretórios**:
+  - O comando `isdir` retorna verdadeiro se o diretório especificado existir.
 
 ---
+
 
 ## Resumo Geral
 
 ### Propósito:
-O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script. Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB. O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia. As aulas 05 e 06 expandem os conhecimentos adquiridos nas aulas anteriores, introduzindo conceitos fundamentais que são essenciais para aplicações mais avançadas no MATLAB.
-
+O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script. Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB. O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia.  Os scripts `Aula_05.mat` e `Aula_06.mat` fornecem uma compreensão prática sobre diferentes métodos numéricos (como arredondamentos) e interações com o sistema operativo através do MATLAB.
 
 ### Uso:
 Esses arquivos são úteis para quem está começando a aprender MATLAB e deseja entender como manipular dados e usar comandos básicos.
