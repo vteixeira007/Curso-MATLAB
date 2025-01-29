@@ -133,11 +133,34 @@ Este script aborda os **comandos do sistema operativo** no MATLAB, permitindo a 
 
 ---
 
+## Arquivo: `Aula_07.m`
+
+### Descrição
+O script `Aula_07.m` aborda a criação e manipulação de vetores no MATLAB, incluindo vetores linha e coluna, transposição, criação com incrementos definidos e uso das funções `linspace` e `logspace` para geração de vetores com espaçamentos lineares e logarítmicos.
+
+### Conteúdo
+- **Vetores Linha e Coluna**:
+  - Criação de vetores linha com diferentes notações.
+  - Criação de vetores coluna utilizando ponto e vírgula (`;`).
+  - Transposição de vetores com o operador (`'`).
+- **Geração de Vetores com Incrementos**:
+  - Criação de vetores com incrementos positivos e negativos.
+  - Exemplos utilizando a notação `(início:incremento:fim)`.
+- **Funções Específicas**:
+  - `ones`: Criação de vetores com valores iguais a 1.
+  - `zeros`: Criação de vetores com valores iguais a 0.
+- **Geração com Espaçamentos Definidos**:
+  - `linspace`: Geração de vetores com espaçamento linear.
+    - Exemplos com diferentes números de elementos.
+  - `logspace`: Geração de vetores com espaçamento logarítmico.
+    - Exemplos com diferentes bases e números de elementos.
+
+---
 
 ## Resumo Geral
 
 ### Propósito:
-O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script. Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB. O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia.  Os scripts `Aula_05.mat` e `Aula_06.mat` fornecem uma compreensão prática sobre diferentes métodos numéricos (como arredondamentos) e interações com o sistema operativo através do MATLAB.
+O script `Aula_01.m` é um tutorial básico para iniciantes no MATLAB, cobrindo operações essenciais como manipulação de variáveis, salvamento e carregamento de dados, e uso de comandos de ajuda. O arquivo `Aula_01.mat` é o resultado do salvamento do workspace após a execução do script. Os scripts `Aula_02.m` e `Aula_03.m` expandem os conceitos básicos apresentados na aula inicial, com foco em cálculos matemáticos e manipulação de variáveis. Eles fornecem uma base sólida para explorar funcionalidades mais avançadas do MATLAB. O script `Aula_04.m` apresenta de forma prática como trabalhar com números complexos no MATLAB, fornecendo exemplos de cálculos e conversões úteis para aplicações matemáticas e de engenharia.  Os scripts `Aula_05.mat` e `Aula_06.mat` fornecem uma compreensão prática sobre diferentes métodos numéricos (como arredondamentos) e interações com o sistema operativo através do MATLAB. O script `Aula_07.m` é um guia prático para quem deseja aprender a criar e manipular vetores no MATLAB, cobrindo desde conceitos básicos até técnicas avançadas com espaçamentos lineares e logarítmicos.
 
 ### Uso:
 Esses arquivos são úteis para quem está começando a aprender MATLAB e deseja entender como manipular dados e usar comandos básicos.
